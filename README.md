@@ -9,7 +9,8 @@
 
 Here’s a glimpse of Spectrum Dark in action:
 
-![Spectrum Dark Theme Preview](Sample.png)
+![Spectrum Dark Theme Preview](https://raw.githubusercontent.com/shivraj110504/Spectrum-Dark/main/Screenshot%202025-04-06%20113142.png)
+
 
 ---
 
