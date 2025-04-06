@@ -1,5 +1,7 @@
 # 🌌 Spectrum Dark - VS Code Theme
 #   Created by Shivaraj Subhash Taware
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 **Spectrum Dark** is a sleek, modern, and developer-friendly dark theme for Visual Studio Code. Designed for comfort, clarity, and elegance during long coding sessions, this theme strikes a balance between vivid syntax highlighting and a soft dark background — perfect for day and night use.
 
