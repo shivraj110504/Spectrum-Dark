@@ -6,8 +6,20 @@
 	"publisher": "ShivrajTaware",
 	"repository":{
 		"type": "git",
-		
+		"url": "https://github.com/shivraj110504/Spectrum-Dark"
 	},
+	"keywords": [
+		"dark",
+		"theme",
+		"color",
+		"vscode",
+		"shivaraj",
+		"ShivrajTaware",
+		"taware",
+		"Spectrum",
+		"Spectrum Dark",
+		"Dark Spectrum"
+	],
 
 	"colors": {
 	   "selection.background": "#000000cc",
