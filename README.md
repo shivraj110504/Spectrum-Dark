@@ -27,9 +27,8 @@ Here’s a glimpse of Spectrum Dark in action:
 
 ## 📦 Installation
 
-> Coming soon on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/VSCode)
+> Available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com)
 
-Once published, you’ll be able to:
 1. Open VS Code
 2. Go to Extensions (`Ctrl+Shift+X`)
 3. Search for `Spectrum Dark`
@@ -37,9 +36,13 @@ Once published, you’ll be able to:
 
 ---
 
-## 🛠 Contributing
+## 👨‍💻 About Me
 
-Have ideas or spot a bug? Feel free to suggest improvements! 
+- **Name**: Shivaraj Subhash Taware  
+- **Education**: Second Year Engineering Student  
+- **Interests**: Web Development, Theming, UI/UX Design  
+- **GitHub**: [shivraj110504](https://github.com/shivraj110504)
+- **LinkedIn**: [Shivraj Taware](https://www.linkedin.com/in/shivrajtaware/)
 
 ---
 
