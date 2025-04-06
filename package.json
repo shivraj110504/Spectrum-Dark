@@ -1,0 +1,21 @@
+{
+  "name": "spectrum-dark",
+  "displayName": "Spectrum Dark",
+  "description": "Spectrum Dark Theme By Shivaraj Subhash Taware",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spectrum Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spectrum Dark-color-theme.json"
+      }
+    ]
+  }
+}
