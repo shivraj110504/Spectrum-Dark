@@ -20,6 +20,9 @@
 		"Spectrum Dark",
 		"Dark Spectrum"
 	],
+	"engines": {
+		"vscode": "^1.0.0"
+	},
 
 	"colors": {
 	   "selection.background": "#000000cc",
