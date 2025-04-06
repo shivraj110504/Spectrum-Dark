@@ -39,18 +39,7 @@ Once published, you’ll be able to:
 
 ## 🛠 Contributing
 
-Have ideas or spot a bug? Feel free to open issues or suggest improvements! Contributions are welcome.
-
----
-
-## 🧠 Markdown Tips
-
-If you're editing markdown files in VS Code, here are some handy shortcuts:
-
-- **Split Editor**: `Ctrl+\` (Windows/Linux), `Cmd+\` (macOS)
-- **Toggle Preview**: `Shift+Ctrl+V` (Windows/Linux), `Shift+Cmd+V` (macOS)
-- **IntelliSense**: `Ctrl+Space` on all platforms
-
+Have ideas or spot a bug? Feel free to suggest improvements! 
 
 ---
 
