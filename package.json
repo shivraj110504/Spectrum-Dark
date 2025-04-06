@@ -3,6 +3,11 @@
   "displayName": "Spectrum Dark",
   "description": "Spectrum Dark Theme By Shivaraj Subhash Taware",
   "version": "0.0.1",
+  "publisher": "ShivrajTaware",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivraj110504/Spectrum-Dark"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },

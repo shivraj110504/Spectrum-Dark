@@ -1,28 +1,36 @@
 {
-	"name": "Spectrum Dark",
-	"displayName": "Spectrum Dark",
-	"description": "A dark theme with a spectrum of colors. Made by Shivaraj Subhash Taware.",
-	"version": "1.0.0",
-	"publisher": "ShivrajTaware",
-	"repository":{
-		"type": "git",
-		"url": "https://github.com/shivraj110504/Spectrum-Dark"
-	},
-	"keywords": [
-		"dark",
-		"theme",
-		"color",
-		"vscode",
-		"shivaraj",
-		"ShivrajTaware",
-		"taware",
-		"Spectrum",
-		"Spectrum Dark",
-		"Dark Spectrum"
-	],
-	"engines": {
-		"vscode": "^1.0.0"
-	},
+	"name": "spectrum-dark",                     
+  "displayName": "Spectrum Dark",
+  "description": "A dark theme with a spectrum of colors. Made by Shivaraj Subhash Taware.",
+  "version": "1.0.0",
+  "publisher": "ShivrajTaware",   
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivraj110504/Spectrum-Dark"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spectrum Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spectrum Dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "spectrum",
+    "vscode",
+    "Shivaraj",
+    "ShivrajTaware"
+  ],
 
 	"colors": {
 	   "selection.background": "#000000cc",
