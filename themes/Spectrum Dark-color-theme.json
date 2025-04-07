@@ -33,7 +33,7 @@
   ],
 
 	"colors": {
-	   "selection.background": "#000000cc",
+	   "selection.background": "#8d6515cc",
 	   "descriptionForeground": "#e1e2e1",
 	   "errorForeground": "#e34e1c",
 	   "widget.shadow": "#25242444",
